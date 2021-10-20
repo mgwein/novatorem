@@ -1,7 +1,8 @@
 {
-    "current-theme": "light",
+    "current-theme": "album",
     "templates": {
         "light": "spotify.html.j2",
-        "dark": "spotify-dark.html.j2"
+        "dark": "spotify-dark.html.j2",
+        "album": "spotify.default.html.j2"
     }
 }
